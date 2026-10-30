@@ -115,7 +115,7 @@ Gestão para pequenos stands: viaturas, custos, pós-venda, importação de Exce
 
 ## Contacto
 
-Dúvidas, suporte ou pedido da aplicação: **[kota.saas.suporte@gmail.com](mailto:kota.saas.suporte@gmail.com)**
+Dúvidas, suporte ou pedido da aplicação: **[suporte@francisgomesx.dev](mailto:suporte@francisgomesx.dev)**
 
 <div align="center">
 
