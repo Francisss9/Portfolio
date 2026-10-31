@@ -20,7 +20,7 @@
 [![Kota](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=kota-v*&label=Kota&color=ce0c24&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=kota)
 [![Rasto](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=rasto-v*&label=Rasto&color=3b3b3b&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=rasto)
 ![Kota offline](https://img.shields.io/badge/Kota-offline-2ea043?style=flat-square)
-![Para Portugal](https://img.shields.io/badge/para-Portugal-111011?style=flat-square)
+![7 dias grátis](https://img.shields.io/badge/Kota-7%20dias%20gr%C3%A1tis-f59e0b?style=flat-square)
 
 <br>
 
@@ -121,6 +121,7 @@ flowchart LR
 - **Anual** (12 meses, pagos de uma só vez, sem renovação automática) ou **mensal**.
 - Pagamento seguro com **MB WAY, Multibanco ou cartão**, através do Stripe.
 - A chave chega logo após o pagamento e ativa-se em **Definições → Licença**.
+- **7 dias grátis** para experimentares, por pedido.
 - **Reembolso** nos primeiros 14 dias, por email.
 
 </details>
@@ -141,7 +142,7 @@ Descarrega no [**site do Kota**](https://kota.francisgomesx.dev) ou na [**págin
 > Cada versão traz um código de verificação (SHA-256) para confirmares que o download está intacto.
 
 > [!IMPORTANT]
-> Para emitir PDF precisas de uma licença, ativada em **Definições → Licença**.
+> Para emitir PDF precisas de uma licença, ativada em **Definições → Licença**. Há **7 dias grátis** para experimentares, por pedido.
 
 </details>
 
@@ -231,7 +232,7 @@ Sim. Faz e envia orçamentos sem rede. Os dados ficam no teu dispositivo, sem co
 
 <br>
 
-Licença anual (paga de uma vez, sem renovação automática) ou mensal, por oficina. Pagas com MB WAY, Multibanco ou cartão. Podes pedir reembolso nos primeiros 14 dias.
+Licença anual (paga de uma vez, sem renovação automática) ou mensal, por oficina. Pagas com MB WAY, Multibanco ou cartão. Há 7 dias grátis para experimentares, por pedido, e reembolso nos primeiros 14 dias.
 
 </details>
 
