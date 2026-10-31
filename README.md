@@ -306,7 +306,7 @@ Só quem o dono do stand autorizar.
 <div align="center">
 
 ### Tens um negócio e uma dor de cabeça?
-**Fala comigo.** Respondo depressa.
+**Fala comigo.**
 
 [![Email](https://img.shields.io/badge/suporte%40francisgomesx.dev-ce0c24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporte@francisgomesx.dev)
 
