@@ -12,20 +12,19 @@
 
 <br>
 
-[![Descarregar o Kota](https://img.shields.io/badge/Descarregar-Kota-ce0c24?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Francisss9/Portfolio/releases?q=kota)
+[![Descarregar o Kota](https://img.shields.io/badge/Descarregar-Kota-ce0c24?style=for-the-badge&logo=android&logoColor=white)](https://kota.francisgomesx.dev)
 [![Abrir o Rasto](https://img.shields.io/badge/Abrir-Rasto-111011?style=for-the-badge&logo=cloudflare&logoColor=white)](https://rasto.francisgomesx.dev)
 
 <br>
 
 [![Kota](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=kota-v*&label=Kota&color=ce0c24&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=kota)
 [![Rasto](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=rasto-v*&label=Rasto&color=3b3b3b&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=rasto)
-![Offline first](https://img.shields.io/badge/offline-first-2ea043?style=flat-square)
-![Licença anual](https://img.shields.io/badge/licen%C3%A7a-anual-111011?style=flat-square)
-![7 dias grátis](https://img.shields.io/badge/7%20dias-gr%C3%A1tis-f59e0b?style=flat-square)
+![Kota offline](https://img.shields.io/badge/Kota-offline-2ea043?style=flat-square)
+![Para Portugal](https://img.shields.io/badge/para-Portugal-111011?style=flat-square)
 
 <br>
 
-**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[❓ FAQ](#-perguntas-frequentes)** &nbsp;·&nbsp; **[🛠️ Stack](#%EF%B8%8F-stack)** &nbsp;·&nbsp; **[✉️ Contacto](#%EF%B8%8F-contacto)**
+**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[❓ FAQ](#-perguntas-frequentes)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[🛠️ Stack](#%EF%B8%8F-stack)** &nbsp;·&nbsp; **[✉️ Contacto](#%EF%B8%8F-contacto)**
 
 </div>
 
@@ -34,13 +33,13 @@
 ## 🏁 Projetos
 
 > [!NOTE]
-> Quem trabalha com as mãos ocupadas não tem tempo para formulários. Faço software que **abre depressa**, **funciona sem rede** e **entrega o documento pronto** ao cliente.
+> Oficinas e stands têm pouco tempo e muita coisa para controlar. Faço software que **poupa trabalho**, **não deixa números fora do sítio** e **dá a cada negócio uma visão clara do que tem**.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔧 Kota</h3>
-      <p><b>O orçamento na mão do cliente, em poucos toques.</b></p>
+      <p><b>O orçamento certo, ao cêntimo.</b><br>Para oficinas em Portugal.</p>
       <p>
         <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android" />
         <img src="https://img.shields.io/badge/Windows-0078d4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
@@ -50,7 +49,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🚗 Rasto</h3>
-      <p><b>Cada viatura, com tudo registado.</b></p>
+      <p><b>O stock do teu stand, sempre sob controlo.</b><br>Para stands em Portugal.</p>
       <p>
         <img src="https://img.shields.io/badge/Web-111011?style=flat-square&logo=cloudflare&logoColor=white" alt="Web" />
         <img src="https://img.shields.io/badge/estado-piloto%20online-f59e0b?style=flat-square" alt="Piloto online" />
@@ -66,9 +65,9 @@
 
 ## 🔧 Kota
 
-> ### Orçamentos de reparação para oficinas. No telemóvel, no computador, sem internet.
+> ### O orçamento certo, ao cêntimo.
 
-O Kota cria orçamentos em **PDF A4** com a marca da oficina e totais sempre certos. Tudo fica **no teu dispositivo**: sem conta, sem nuvem, sem anúncios.
+Faz o orçamento da reparação em poucos minutos, com peças, mão de obra e IVA somados sem erros. Sai em **PDF A4** com a marca da oficina, funciona **sem internet** e os dados da oficina **nunca saem do dispositivo**.
 
 <div align="center">
 
@@ -82,8 +81,8 @@ O Kota cria orçamentos em **PDF A4** com a marca da oficina e totais sempre cer
 <table>
   <tr>
     <td align="center" width="25%"><h3>📴</h3><b>Sem internet</b><br><sub>Funciona em qualquer oficina</sub></td>
-    <td align="center" width="25%"><h3>⚡</h3><b>Rápido</b><br><sub>Orçamento em poucos toques</sub></td>
-    <td align="center" width="25%"><h3>🔐</h3><b>Privado</b><br><sub>Dados cifrados no dispositivo</sub></td>
+    <td align="center" width="25%"><h3>⚡</h3><b>Rápido</b><br><sub>Orçamento em poucos minutos</sub></td>
+    <td align="center" width="25%"><h3>🔐</h3><b>Privado</b><br><sub>Sem nuvem, anúncios nem telemetria</sub></td>
     <td align="center" width="25%"><h3>💬</h3><b>WhatsApp</b><br><sub>Do PDF ao cliente num toque</sub></td>
   </tr>
 </table>
@@ -93,9 +92,9 @@ O Kota cria orçamentos em **PDF A4** com a marca da oficina e totais sempre cer
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontSize':'20px','primaryColor':'#111011','primaryTextColor':'#ffffff','primaryBorderColor':'#ce0c24','lineColor':'#ce0c24'}}}%%
 flowchart LR
-    A(["📱 Abrir"]) --> B["🧾 Orçamento"]
-    B --> C["📄 PDF"]
-    C --> D(["💬 Enviar"])
+    A(["🔩 Peças"]) --> B["⏱️ Mão de obra"]
+    B --> C["🧮 IVA e total"]
+    C --> D(["💬 WhatsApp"])
 ```
 
 <details>
@@ -106,30 +105,23 @@ flowchart LR
 | | | |
 | :-: | --- | --- |
 | 📴 | **100% offline** | Orçamentos e clientes nunca saem do dispositivo. |
+| 🧮 | **Totais sempre certos** | Valores em cêntimos inteiros e arredondamento correto. O total sai sempre das linhas. |
 | 📄 | **PDF A4 profissional** | Marca da oficina, peças, mão de obra, IVA e total. |
-| 📱 | **Pensado para o telemóvel** | Para usar junto da viatura. |
-| 🔐 | **Dados cifrados** | Protegidos no teu dispositivo. |
-| 🖥️ | **Android e Windows** | A mesma aplicação em todo o lado. |
-| 🎟️ | **Licença anual** | MB WAY, Multibanco ou cartão. Sem renovação automática. |
+| 📱 | **Do telemóvel ao balcão** | Android no bolso, Windows portátil no balcão. |
+| 🔐 | **Dados cifrados** | Guardados no teu dispositivo, sem conta nem nuvem. |
+| 🖥️ | **Até 3 dispositivos** | Uma licença por oficina, para o telemóvel, o balcão e um tablet. |
 
 </details>
 
 <details>
-<summary><b>🧠 Por baixo do capô</b></summary>
+<summary><b>🎟️ Licença</b></summary>
 
 <br>
 
-- 🧮 **Contas sempre certas.** Nem um cêntimo fora do sítio.
-- 🔒 **Zero rastreio.** Sem telemetria, anúncios nem espiões.
-- 🧪 **Testado até à exaustão** em telemóvel e computador, antes de cada versão.
-
-<div align="center">
-
-| 🧪 Testes | 📱 Dispositivos | 🔒 Segurança | 🎁 Experiência |
-| :-: | :-: | :-: | :-: |
-| **≥ 95%** do código testado | **Android** e **Windows** | **Cifrado** no dispositivo | **7 dias** grátis |
-
-</div>
+- **Anual** (12 meses, pagos de uma só vez, sem renovação automática) ou **mensal**.
+- Pagamento seguro com **MB WAY, Multibanco ou cartão**, através do Stripe.
+- A chave chega logo após o pagamento e ativa-se em **Definições → Licença**.
+- **Reembolso** nos primeiros 14 dias, por email.
 
 </details>
 
@@ -138,18 +130,18 @@ flowchart LR
 
 <br>
 
-Cada versão está na [**página de versões**](https://github.com/Francisss9/Portfolio/releases?q=kota).
-
 | | Plataforma | Ficheiro | Como instalar |
 | :-: | --- | --- | --- |
 | 🤖 | **Android 10+** | `.apk` | Descarrega, permite fontes desconhecidas quando o Android perguntar e toca em **Instalar**. Se já tens o Kota, os teus dados mantêm-se. |
-| 🪟 | **Windows (portátil)** | `.exe` | Sem instalação: guarda numa pasta e abre. |
+| 🪟 | **Windows 10+ (64 bits, portátil)** | `.exe` | Sem instalação: guarda numa pasta e abre. |
+
+Descarrega no [**site do Kota**](https://kota.francisgomesx.dev) ou na [**página de versões**](https://github.com/Francisss9/Portfolio/releases?q=kota).
 
 > [!TIP]
-> Cada versão vem com um ficheiro de verificação para confirmares que o download está intacto.
+> Cada versão traz um código de verificação (SHA-256) para confirmares que o download está intacto.
 
 > [!IMPORTANT]
-> Para emitir PDF precisas de uma licença (**Definições → Licença**). Há 7 dias grátis para experimentares.
+> Para emitir PDF precisas de uma licença, ativada em **Definições → Licença**.
 
 </details>
 
@@ -159,9 +151,9 @@ Cada versão está na [**página de versões**](https://github.com/Francisss9/Po
 
 ## 🚗 Rasto
 
-> ### Cada viatura, com tudo registado.
+> ### O stock do teu stand, sempre sob controlo.
 
-Gestão para pequenos stands: viaturas, custos, pós-venda, importação de Excel e relatórios PDF com as secções que escolheres. Em **modo local** ou como **piloto online**.
+Todas as viaturas, custos e prazos num só sítio. Vê o que está em stock, o que está parado e o que cada carro te deixa.
 
 <div align="center">
 
@@ -174,10 +166,10 @@ Gestão para pequenos stands: viaturas, custos, pós-venda, importação de Exce
 
 <table>
   <tr>
-    <td align="center" width="25%"><h3>🗂️</h3><b>Ficha da viatura</b><br><sub>Custos e pós-venda num só sítio</sub></td>
-    <td align="center" width="25%"><h3>📥</h3><b>Importa o Excel</b><br><sub>Sem reescrever nada</sub></td>
-    <td align="center" width="25%"><h3>📄</h3><b>Relatórios PDF</b><br><sub>Com as secções que escolheres</sub></td>
-    <td align="center" width="25%"><h3>🔑</h3><b>Acesso controlado</b><br><sub>Só entra quem o dono autorizar</sub></td>
+    <td align="center" width="25%"><h3>📦</h3><b>Stock num só ecrã</b><br><sub>Em stock, vendido, investido e garantias a terminar</sub></td>
+    <td align="center" width="25%"><h3>🗂️</h3><b>Ficha da viatura</b><br><sub>Compra, despesas e saldo sempre à mão</sub></td>
+    <td align="center" width="25%"><h3>📈</h3><b>O que vende</b><br><sub>E o que fica parado</sub></td>
+    <td align="center" width="25%"><h3>👥</h3><b>Equipa</b><br><sub>Convites e papéis por pessoa</sub></td>
   </tr>
 </table>
 
@@ -186,9 +178,38 @@ Gestão para pequenos stands: viaturas, custos, pós-venda, importação de Exce
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontSize':'20px','primaryColor':'#111011','primaryTextColor':'#ffffff','primaryBorderColor':'#ce0c24','lineColor':'#ce0c24'}}}%%
 flowchart LR
-    X(["📊 Excel"]) --> F["🚗 Viatura"]
-    F --> R(["📄 Relatório"])
+    X(["📥 Importar stock"]) --> F["🚗 Ficha"]
+    F --> S["📦 Stock"]
+    S --> E(["📈 Estatísticas"])
 ```
+
+<details>
+<summary><b>✨ Tudo o que o Rasto faz</b></summary>
+
+<br>
+
+| | | |
+| :-: | --- | --- |
+| 📦 | **Stock à vista** | Filtra por responsável, preparação ou mês de venda. |
+| 🗂️ | **Ficha completa** | Valor de venda, compra, despesas e pós-venda, com o saldo antes de impostos. |
+| 📈 | **Estatísticas** | Vendas e margem por mês, marcas, stock parado, custos e equipa. Só valores que existem. |
+| 📥 | **Importação** | Traz o stock que já tens em Excel, CSV ou JSON, sem voltar a escrever tudo. |
+| 📄 | **Relatórios em PDF** | Com o logótipo do teu stand, à tua escolha: resumo do negócio, pós-venda ou ficha completa. |
+| 🔑 | **Acesso por conta Google** | Convites para a equipa e papéis: proprietário ou membro. |
+
+</details>
+
+<details>
+<summary><b>🎟️ Planos</b></summary>
+
+<br>
+
+Sem limite de viaturas em nenhum plano. O plano **Base** já está disponível, o **Pro** abre a 1 de dezembro de 2026, e o **Max** e o **Ultra** estão em desenvolvimento. Preços e detalhes em [**rasto.francisgomesx.dev**](https://rasto.francisgomesx.dev).
+
+> [!NOTE]
+> O Rasto precisa de internet. O pagamento online está a ser preparado: até lá, o acesso combina-se por email.
+
+</details>
 
 <br>
 
@@ -197,29 +218,20 @@ flowchart LR
 ## ❓ Perguntas frequentes
 
 <details>
-<summary><b>Preciso de internet para usar o Kota?</b></summary>
+<summary><b>O Kota funciona sem internet?</b></summary>
 
 <br>
 
-Não. O Kota funciona sem rede. A única ligação à internet é para ativar a licença, e só depois de clicares para a ativar.
+Sim. Faz e envia orçamentos sem rede. Os dados ficam no teu dispositivo, sem conta nem nuvem.
 
 </details>
 
 <details>
-<summary><b>Onde ficam os meus dados?</b></summary>
+<summary><b>Quanto custa e como se paga o Kota?</b></summary>
 
 <br>
 
-No teu dispositivo, cifrados. Orçamentos e clientes nunca saem de lá, e não há contas nem nuvem.
-
-</details>
-
-<details>
-<summary><b>Quanto custa e como se paga?</b></summary>
-
-<br>
-
-O Kota tem licença anual, paga por MB WAY, Multibanco ou cartão, sem renovação automática. Podes experimentar 7 dias grátis, por pedido.
+Licença anual (paga de uma vez, sem renovação automática) ou mensal, por oficina. Pagas com MB WAY, Multibanco ou cartão. Podes pedir reembolso nos primeiros 14 dias.
 
 </details>
 
@@ -228,16 +240,25 @@ O Kota tem licença anual, paga por MB WAY, Multibanco ou cartão, sem renovaç�
 
 <br>
 
-Android 10 ou superior e Windows (versão portátil, sem instalação).
+Android 10 ou superior e Windows 10 ou superior (64 bits, versão portátil). Uma licença serve até 3 dispositivos da mesma oficina.
 
 </details>
 
 <details>
-<summary><b>O Rasto aceita o meu Excel antigo?</b></summary>
+<summary><b>O Rasto funciona sem internet?</b></summary>
 
 <br>
 
-Sim. Importas o ficheiro e passas ao sistema sem reescrever nada.
+Não, precisa de ligação à internet.
+
+</details>
+
+<details>
+<summary><b>Posso trazer o meu stock para o Rasto?</b></summary>
+
+<br>
+
+Sim. Importas o Excel, CSV ou JSON que já tens, ou começas do zero.
 
 </details>
 
@@ -246,7 +267,7 @@ Sim. Importas o ficheiro e passas ao sistema sem reescrever nada.
 
 <br>
 
-Só quem o dono do stand autorizar.
+Entra-se com conta Google, por convite do stand. Cada pessoa tem o seu papel: proprietário ou membro.
 
 </details>
 
@@ -258,8 +279,8 @@ Só quem o dono do stand autorizar.
 
 | | | |
 | :-: | --- | --- |
-| 🎯 | **Primeiro o problema real** | Falo com quem usa e desenho à volta do dia a dia: mãos ocupadas, rede fraca, cliente à espera. |
-| 🛡️ | **Os dados são de quem os cria** | Offline por defeito, cifrado, sem contas desnecessárias. |
+| 🎯 | **Primeiro o problema real** | Falo com quem usa e desenho à volta do dia a dia: mãos ocupadas, stock parado, cliente à espera. |
+| 🛡️ | **Os dados são de quem os cria** | Cada oficina e cada stand só vê o que é seu. |
 | 🧮 | **Rigor onde o dinheiro passa** | Os totais batem sempre certo e cada regra de cálculo é testada. |
 | 📝 | **Tudo escrito** | Para o projeto fazer sentido daqui a um ano. |
 
@@ -295,7 +316,7 @@ Só quem o dono do stand autorizar.
 | :-: | --- | --- |
 | 🛠️ | **Produto próprio** | Desenho, construo e mantenho cada produto de ponta a ponta. |
 | 🔄 | **Sempre a evoluir** | Cada versão traz melhorias, com o feedback de quem usa. |
-| 🎟️ | **Licença simples** | Pagas pelo que usas, sem letras pequenas. |
+| 🎟️ | **Licença simples** | Planos claros, sem letras pequenas. |
 
 <br>
 
