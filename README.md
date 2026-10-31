@@ -13,7 +13,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](#-stack)
 [![Offline first](https://img.shields.io/badge/offline-first-2ea043?style=for-the-badge)](#-kota)
 
-**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[🛠️ Stack](#-stack)** &nbsp;·&nbsp; **[✉️ Contacto](#-contacto)**
+**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[🛠️ Stack](#-stack)** &nbsp;·&nbsp; **[☁️ O que faço](#-o-que-faço)** &nbsp;·&nbsp; **[✉️ Contacto](#-contacto)**
 
 </div>
 
@@ -201,11 +201,31 @@ flowchart LR
 
 ---
 
+## ☁️ O que faço
+
+<div align="center">
+
+### Faço **SaaS**.
+
+*Software como serviço, para o setor automóvel.*
+
+</div>
+
+| | | |
+| :-: | --- | --- |
+| 🛠️ | **Produto próprio** | Desenho, construo e mantenho cada produto de ponta a ponta. |
+| 🔄 | **Sempre a evoluir** | Cada versão traz melhorias, com o feedback de quem usa. |
+| 🎟️ | **Licença simples** | Pagas pelo que usas, sem letras pequenas. |
+
+<br>
+
+---
+
 ## ✉️ Contacto
 
 <div align="center">
 
-Dúvidas, suporte ou pedido da aplicação:
+Dúvidas ou suporte:
 
 [![Email](https://img.shields.io/badge/suporte%40francisgomesx.dev-ce0c24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporte@francisgomesx.dev)
 
