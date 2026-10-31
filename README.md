@@ -87,7 +87,7 @@ flowchart LR
 | 📴 | **100% offline** | Funciona sem rede. Orçamentos e clientes nunca saem do dispositivo. |
 | 📄 | **PDF A4 profissional** | Cabeçalho com a marca da oficina, peças, mão de obra, IVA e total. |
 | 📱 | **Rápido no telemóvel** | Pensado para usar junto da viatura, com envio por WhatsApp em poucos toques. |
-| 🔐 | **Dados cifrados** | SQLCipher com chave no Android Keystore; DPAPI no Windows; cópias `.kota` em AES-256-GCM. |
+| 🔐 | **Dados cifrados** | Tudo fica protegido no teu dispositivo. Ninguém lá chega. |
 | 🖥️ | **Android e Windows** | A mesma aplicação em todos os dispositivos. |
 | 🎟️ | **Licença anual** | MB WAY, Multibanco ou cartão. Sem renovação automática. |
 
@@ -95,75 +95,17 @@ flowchart LR
 
 <div align="center">
 
-| 🧪 Cobertura de testes | 📐 Viewports testados | 🔒 Cifra das cópias | 🎁 Experiência gratuita |
+| 🧪 Testes | 📱 Dispositivos | 🔒 Segurança | 🎁 Experiência |
 | :-: | :-: | :-: | :-: |
-| **≥ 95%** de linhas | **390 px** e **1440 px** | **AES-256-GCM** | **7 dias**, por pedido |
+| **≥ 95%** do código testado | **Android** e **Windows** | **Cifrado** no dispositivo | **7 dias** grátis |
 
 </div>
 
-### 🧱 Engenharia
+### 🧠 Por baixo do capô
 
-<details open>
-<summary><b>Aritmética financeira exata</b></summary>
-
-<br>
-
-Montantes em **cêntimos inteiros**, quantidades em centésimos, percentagens em pontos-base, cálculos intermédios em `BigInt` com arredondamento *half-up*. Os totais são sempre **derivados**, nunca importados.
-
-</details>
-
-<details>
-<summary><b>Camadas puras</b></summary>
-
-<br>
-
-O domínio não conhece React, bases de dados nem PDF. Os efeitos secundários vivem isolados na infraestrutura.
-
-```mermaid
-flowchart LR
-    P["presentation<br/>React"] --> A["application<br/>estado e filas"]
-    A --> D["domain<br/>regras e Zod"]
-    A --> I["infrastructure<br/>SQLite · Dexie · PDF"]
-    I --> D
-
-    classDef core fill:#ce0c24,stroke:#ce0c24,color:#ffffff
-    classDef layer fill:#111011,stroke:#ce0c24,color:#ffffff,stroke-width:2px
-    class D core
-    class P,A,I layer
-```
-
-</details>
-
-<details>
-<summary><b>Persistência transacional</b></summary>
-
-<br>
-
-Contadores sequenciais atómicos e relógio de revisões (*CAS*) que impede sobrescrever versões mais recentes.
-
-</details>
-
-<details>
-<summary><b>Privacidade por desenho</b></summary>
-
-<br>
-
-Sem telemetria nem análise de tráfego. A única ligação à rede é o licenciamento, só após um clique explícito do utilizador, e **nunca** envia dados de clientes ou orçamentos.
-
-</details>
-
-<details>
-<summary><b>Portão de qualidade antes de cada commit</b></summary>
-
-<br>
-
-- [x] Testes unitários com cobertura de linhas ≥ 95%
-- [x] Build estrito
-- [x] Suite E2E em Playwright (390 px e 1440 px, teclado e movimento reduzido)
-- [x] Verificação visual dos PDFs
-- [x] Auditoria de dependências
-
-</details>
+- 🧮 **Contas sempre certas.** Nem um cêntimo fora do sítio.
+- 🔒 **Zero rastreio.** Não há telemetria, anúncios nem espiões.
+- 🧪 **Testado até à exaustão**, em telemóvel e em computador, antes de cada versão.
 
 ### 📥 Descarregar e instalar
 
@@ -171,14 +113,14 @@ Cada versão inclui o instalador para todos os dispositivos na [**página de ver
 
 | | Plataforma | Ficheiro | Como instalar |
 | :-: | --- | --- | --- |
-| 🤖 | **Android 10+** | `Kota-X.Y.Z.apk` | Descarregue, permita fontes desconhecidas quando o Android perguntar e toque em **Instalar**. Se já tem o Kota, instala-se por cima e os dados mantêm-se. |
-| 🪟 | **Windows (x64, portátil)** | `Kota-X.Y.Z-x64.exe` | Sem instalação: guarde numa pasta e abra. |
+| 🤖 | **Android 10+** | `.apk` | Descarrega, permite fontes desconhecidas quando o Android perguntar e toca em **Instalar**. Se já tens o Kota, os teus dados mantêm-se. |
+| 🪟 | **Windows (portátil)** | `.exe` | Sem instalação: guarda numa pasta e abre. |
 
 > [!TIP]
-> Cada versão traz um `SHA256SUMS` para confirmar a integridade do ficheiro.
+> Cada versão vem com um ficheiro de verificação para confirmares que o download está intacto.
 
 > [!IMPORTANT]
-> Para emitir PDF é necessária uma licença, ativada em **Definições → Licença**. Há uma experiência gratuita de 7 dias, por pedido.
+> Para emitir PDF precisas de uma licença (**Definições → Licença**). Há 7 dias grátis para experimentares.
 
 <br>
 
@@ -218,7 +160,7 @@ flowchart LR
 | 🗂️ | **Ficha completa por viatura** | Com custos e histórico de pós-venda. |
 | 📥 | **Importação de Excel** | Passe do ficheiro antigo ao sistema sem reescrever nada. |
 | 📄 | **Relatórios PDF** | Secções selecionáveis, prontos a partilhar. |
-| 🔑 | **Acesso controlado** | O piloto online só admite contas autorizadas pelo responsável do stand. |
+| 🔑 | **Acesso controlado** | Só entra quem o dono do stand autorizar. |
 
 <br>
 
@@ -230,8 +172,8 @@ flowchart LR
 | :-: | --- | --- |
 | 🎯 | **Primeiro o problema real** | Falo com quem usa a ferramenta e desenho à volta do dia a dia: uma mão ocupada, rede instável, o cliente à espera. |
 | 🛡️ | **Os dados são do utilizador** | Offline por defeito, cifrado, sem contas desnecessárias. |
-| 🧮 | **Rigor onde o dinheiro passa** | Aritmética inteira, testes sobre cada regra de cálculo, PDFs verificados contra a especificação. |
-| 📝 | **Documentar as decisões** | Arquitetura, segurança e design ficam escritos, para que o projeto continue a fazer sentido daqui a um ano. |
+| 🧮 | **Rigor onde o dinheiro passa** | Os totais batem sempre certo, e cada regra de cálculo é testada. |
+| 📝 | **Deixar tudo escrito** | Para o projeto continuar a fazer sentido daqui a um ano. |
 
 <br>
 
@@ -269,7 +211,7 @@ Dúvidas, suporte ou pedido da aplicação:
 
 <br>
 
-<sub>Feito no Porto 🇵🇹 · Os instaladores e o `SHA256SUMS` de cada versão estão na <a href="https://github.com/Francisss9/Portfolio/releases">página de versões</a>.</sub>
+<sub>Feito no Porto 🇵🇹 · Todas as versões estão na <a href="https://github.com/Francisss9/Portfolio/releases">página de versões</a>.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:111011,100:ce0c24&section=footer" alt="" width="100%" />
 
