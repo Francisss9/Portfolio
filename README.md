@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ce0c24,100:111011&text=Francis%20Gomesx&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20para%20o%20setor%20autom%C3%B3vel&descSize=20&descAlignY=60" alt="Francis Gomesx: software para o setor automóvel" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ce0c24,100:111011&text=Francisgomesx&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20para%20o%20setor%20autom%C3%B3vel&descSize=20&descAlignY=60" alt="Francisgomesx: software para o setor automóvel" width="100%" />
 
 <br><br>
 
