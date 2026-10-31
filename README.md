@@ -1,19 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ce0c24,100:111011&text=Francisgomesx&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20como%20servi%C3%A7o&descSize=20&descAlignY=60" alt="Francisgomesx: software como serviço" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ce0c24,100:111011&text=Francisgomesx&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=SaaS%20que%20resolve%20problemas%20reais&descSize=20&descAlignY=60" alt="Francisgomesx: SaaS que resolve problemas reais" width="100%" />
 
 <a href="https://github.com/Francisss9/Portfolio">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1800&color=CE0C24&center=true&vCenter=true&width=640&lines=Feito+para+funcionar+onde+o+trabalho+acontece;Estudante+de+Eng.+Inform%C3%A1tica+no+ISEP+%C2%B7+Porto" alt="Feito para funcionar onde o trabalho acontece" />
 </a>
 
-<br><br>
+<br>
 
-[![Kota](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=kota-v*&label=Kota%20vers%C3%A3o&color=ce0c24&style=for-the-badge)](https://github.com/Francisss9/Portfolio/releases?q=kota)
-[![Rasto](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=rasto-v*&label=Rasto%20vers%C3%A3o&color=3b3b3b&style=for-the-badge)](https://github.com/Francisss9/Portfolio/releases?q=rasto)
-[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](#-stack)
+**Produtos próprios, feitos de ponta a ponta. Sem complicar.**
+
+<br>
+
+[![Kota](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=kota-v*&label=Kota&color=ce0c24&style=for-the-badge)](https://github.com/Francisss9/Portfolio/releases?q=kota)
+[![Rasto](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=rasto-v*&label=Rasto&color=3b3b3b&style=for-the-badge)](https://github.com/Francisss9/Portfolio/releases?q=rasto)
 [![Offline first](https://img.shields.io/badge/offline-first-2ea043?style=for-the-badge)](#-kota)
+[![SaaS](https://img.shields.io/badge/SaaS-licen%C3%A7a%20anual-111011?style=for-the-badge)](#%EF%B8%8F-o-que-fa%C3%A7o)
 
-**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[🛠️ Stack](#-stack)** &nbsp;·&nbsp; **[☁️ O que faço](#-o-que-faço)** &nbsp;·&nbsp; **[✉️ Contacto](#-contacto)**
+<br>
+
+**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[🛠️ Stack](#%EF%B8%8F-stack)** &nbsp;·&nbsp; **[✉️ Contacto](#%EF%B8%8F-contacto)**
 
 </div>
 
@@ -22,28 +28,28 @@
 ## 🏁 Projetos
 
 > [!NOTE]
-> Oficinas e stands trabalham de luvas calçadas, com rede fraca e sem tempo para formulários. Construo ferramentas que **abrem depressa**, **guardam tudo no dispositivo** e **produzem documentos prontos a entregar ao cliente**.
+> Quem trabalha com as mãos ocupadas não tem tempo para formulários. Faço software que **abre depressa**, **funciona sem rede** e **entrega o documento pronto** ao cliente.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔧 Kota</h3>
-      <p><b>Orçamentos de reparação em PDF</b><br>para oficinas, sem internet.</p>
+      <p><b>O orçamento na mão do cliente, em poucos toques.</b></p>
       <p>
         <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android" />
         <img src="https://img.shields.io/badge/Windows-0078d4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
         <img src="https://img.shields.io/badge/estado-dispon%C3%ADvel-2ea043?style=flat-square" alt="Disponível" />
       </p>
-      <a href="#-kota"><b>Ver detalhes →</b></a>
+      <a href="#-kota"><b>Ver o Kota →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🚗 Rasto</h3>
-      <p><b>Cada viatura, com tudo registado</b><br>para pequenos stands.</p>
+      <p><b>Cada viatura, com tudo registado.</b></p>
       <p>
         <img src="https://img.shields.io/badge/Web-111011?style=flat-square&logo=cloudflare&logoColor=white" alt="Web" />
         <img src="https://img.shields.io/badge/estado-piloto%20online-f59e0b?style=flat-square" alt="Piloto online" />
       </p>
-      <a href="#-rasto"><b>Ver detalhes →</b></a>
+      <a href="#-rasto"><b>Ver o Rasto →</b></a>
     </td>
   </tr>
 </table>
@@ -54,9 +60,9 @@
 
 ## 🔧 Kota
 
-> ### Orçamentos de reparação para oficinas, no telemóvel e no computador, sem internet.
+> ### Orçamentos de reparação para oficinas. No telemóvel, no computador, sem internet.
 
-O Kota cria orçamentos em **PDF A4** com totais exatos, numeração sequencial e a marca da oficina. Os dados ficam **cifrados no próprio dispositivo**: sem conta, sem nuvem, sem anúncios.
+O Kota cria orçamentos em **PDF A4** com a marca da oficina e totais sempre certos. Tudo fica **no teu dispositivo**: sem conta, sem nuvem, sem anúncios.
 
 <div align="center">
 
@@ -65,33 +71,51 @@ O Kota cria orçamentos em **PDF A4** com totais exatos, numeração sequencial 
 
 </div>
 
-### ⚡ Do telemóvel ao cliente em poucos toques
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>📴</h3><b>Sem internet</b><br><sub>Funciona em qualquer oficina</sub></td>
+    <td align="center" width="25%"><h3>⚡</h3><b>Rápido</b><br><sub>Orçamento em poucos toques</sub></td>
+    <td align="center" width="25%"><h3>🔐</h3><b>Privado</b><br><sub>Dados cifrados no dispositivo</sub></td>
+    <td align="center" width="25%"><h3>💬</h3><b>WhatsApp</b><br><sub>Do PDF ao cliente num toque</sub></td>
+  </tr>
+</table>
+
+<br>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontSize':'20px','primaryColor':'#111011','primaryTextColor':'#ffffff','primaryBorderColor':'#ce0c24','lineColor':'#ce0c24'}}}%%
 flowchart LR
-    A(["📱 Abrir o Kota"]) --> B["🧾 Novo orçamento"]
-    B --> C["🔩 Peças e mão de obra"]
-    C --> D["📄 PDF A4 com a marca da oficina"]
-    D --> E(["💬 Enviar por WhatsApp"])
-
-    classDef step fill:#111011,stroke:#ce0c24,color:#ffffff,stroke-width:2px
-    classDef edge fill:#ce0c24,stroke:#ce0c24,color:#ffffff
-    class B,C,D step
-    class A,E edge
+    A(["📱 Abrir"]) --> B["🧾 Orçamento"]
+    B --> C["📄 PDF"]
+    C --> D(["💬 Enviar"])
 ```
 
-### ✨ O que faz
+<details>
+<summary><b>✨ Tudo o que o Kota faz</b></summary>
 
-| | Funcionalidade | Detalhe |
+<br>
+
+| | | |
 | :-: | --- | --- |
-| 📴 | **100% offline** | Funciona sem rede. Orçamentos e clientes nunca saem do dispositivo. |
-| 📄 | **PDF A4 profissional** | Cabeçalho com a marca da oficina, peças, mão de obra, IVA e total. |
-| 📱 | **Rápido no telemóvel** | Pensado para usar junto da viatura, com envio por WhatsApp em poucos toques. |
-| 🔐 | **Dados cifrados** | Tudo fica protegido no teu dispositivo. Ninguém lá chega. |
-| 🖥️ | **Android e Windows** | A mesma aplicação em todos os dispositivos. |
+| 📴 | **100% offline** | Orçamentos e clientes nunca saem do dispositivo. |
+| 📄 | **PDF A4 profissional** | Marca da oficina, peças, mão de obra, IVA e total. |
+| 📱 | **Pensado para o telemóvel** | Para usar junto da viatura. |
+| 🔐 | **Dados cifrados** | Protegidos no teu dispositivo. |
+| 🖥️ | **Android e Windows** | A mesma aplicação em todo o lado. |
 | 🎟️ | **Licença anual** | MB WAY, Multibanco ou cartão. Sem renovação automática. |
 
-### 📊 Em números
+</details>
+
+<details>
+<summary><b>🧠 Por baixo do capô</b></summary>
+
+<br>
+
+- 🧮 **Contas sempre certas.** Nem um cêntimo fora do sítio.
+- 🔒 **Zero rastreio.** Sem telemetria, anúncios nem espiões.
+- 🧪 **Testado até à exaustão** em telemóvel e computador, antes de cada versão.
 
 <div align="center">
 
@@ -101,15 +125,14 @@ flowchart LR
 
 </div>
 
-### 🧠 Por baixo do capô
+</details>
 
-- 🧮 **Contas sempre certas.** Nem um cêntimo fora do sítio.
-- 🔒 **Zero rastreio.** Não há telemetria, anúncios nem espiões.
-- 🧪 **Testado até à exaustão**, em telemóvel e em computador, antes de cada versão.
+<details>
+<summary><b>📥 Descarregar e instalar</b></summary>
 
-### 📥 Descarregar e instalar
+<br>
 
-Cada versão inclui o instalador para todos os dispositivos na [**página de versões**](https://github.com/Francisss9/Portfolio/releases?q=kota).
+Cada versão está na [**página de versões**](https://github.com/Francisss9/Portfolio/releases?q=kota).
 
 | | Plataforma | Ficheiro | Como instalar |
 | :-: | --- | --- | --- |
@@ -122,6 +145,8 @@ Cada versão inclui o instalador para todos os dispositivos na [**página de ver
 > [!IMPORTANT]
 > Para emitir PDF precisas de uma licença (**Definições → Licença**). Há 7 dias grátis para experimentares.
 
+</details>
+
 <br>
 
 ---
@@ -130,7 +155,7 @@ Cada versão inclui o instalador para todos os dispositivos na [**página de ver
 
 > ### Cada viatura, com tudo registado.
 
-Gestão para pequenos stands: viaturas, custos, pós-venda, importação de Excel e relatórios PDF com as secções que escolher. Funciona em **modo local** ou como **piloto online**.
+Gestão para pequenos stands: viaturas, custos, pós-venda, importação de Excel e relatórios PDF com as secções que escolheres. Em **modo local** ou como **piloto online**.
 
 <div align="center">
 
@@ -139,28 +164,25 @@ Gestão para pequenos stands: viaturas, custos, pós-venda, importação de Exce
 
 </div>
 
-### 🔄 Do Excel ao relatório
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>🗂️</h3><b>Ficha da viatura</b><br><sub>Custos e pós-venda num só sítio</sub></td>
+    <td align="center" width="25%"><h3>📥</h3><b>Importa o Excel</b><br><sub>Sem reescrever nada</sub></td>
+    <td align="center" width="25%"><h3>📄</h3><b>Relatórios PDF</b><br><sub>Com as secções que escolheres</sub></td>
+    <td align="center" width="25%"><h3>🔑</h3><b>Acesso controlado</b><br><sub>Só entra quem o dono autorizar</sub></td>
+  </tr>
+</table>
+
+<br>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontSize':'20px','primaryColor':'#111011','primaryTextColor':'#ffffff','primaryBorderColor':'#ce0c24','lineColor':'#ce0c24'}}}%%
 flowchart LR
-    X(["📊 Excel antigo"]) --> I["📥 Importação"]
-    I --> F["🚗 Ficha da viatura<br/>custos e pós-venda"]
-    F --> R(["📄 Relatório PDF<br/>secções à escolha"])
-
-    classDef step fill:#111011,stroke:#ce0c24,color:#ffffff,stroke-width:2px
-    classDef edge fill:#ce0c24,stroke:#ce0c24,color:#ffffff
-    class I,F step
-    class X,R edge
+    X(["📊 Excel"]) --> F["🚗 Viatura"]
+    F --> R(["📄 Relatório"])
 ```
-
-### ✨ O que faz
-
-| | Funcionalidade | Detalhe |
-| :-: | --- | --- |
-| 🗂️ | **Ficha completa por viatura** | Com custos e histórico de pós-venda. |
-| 📥 | **Importação de Excel** | Passe do ficheiro antigo ao sistema sem reescrever nada. |
-| 📄 | **Relatórios PDF** | Secções selecionáveis, prontos a partilhar. |
-| 🔑 | **Acesso controlado** | Só entra quem o dono do stand autorizar. |
 
 <br>
 
@@ -168,12 +190,12 @@ flowchart LR
 
 ## 🧭 Como trabalho
 
-| | Princípio | Na prática |
+| | | |
 | :-: | --- | --- |
-| 🎯 | **Primeiro o problema real** | Falo com quem usa a ferramenta e desenho à volta do dia a dia: uma mão ocupada, rede instável, o cliente à espera. |
-| 🛡️ | **Os dados são do utilizador** | Offline por defeito, cifrado, sem contas desnecessárias. |
-| 🧮 | **Rigor onde o dinheiro passa** | Os totais batem sempre certo, e cada regra de cálculo é testada. |
-| 📝 | **Deixar tudo escrito** | Para o projeto continuar a fazer sentido daqui a um ano. |
+| 🎯 | **Primeiro o problema real** | Falo com quem usa e desenho à volta do dia a dia: mãos ocupadas, rede fraca, cliente à espera. |
+| 🛡️ | **Os dados são de quem os cria** | Offline por defeito, cifrado, sem contas desnecessárias. |
+| 🧮 | **Rigor onde o dinheiro passa** | Os totais batem sempre certo e cada regra de cálculo é testada. |
+| 📝 | **Tudo escrito** | Para o projeto fazer sentido daqui a um ano. |
 
 <br>
 
@@ -183,17 +205,9 @@ flowchart LR
 
 <div align="center">
 
-**Aplicação**<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb) ![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8) ![Zod](https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,electron,sqlite,supabase,cloudflare,playwright&perline=9" alt="Stack: TypeScript, React, Vite, Tailwind, Electron, SQLite, Supabase, Cloudflare, Playwright" />
 
-**Plataformas**<br>
-![Capacitor](https://img.shields.io/badge/Capacitor-119eff?style=for-the-badge&logo=capacitor&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-2b2e3a?style=for-the-badge&logo=electron&logoColor=9feaf9)
-
-**Dados e cloud**<br>
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1c1c1c?style=for-the-badge&logo=supabase&logoColor=3ecf8e) ![Cloudflare](https://img.shields.io/badge/Cloudflare%20Workers-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**Qualidade**<br>
-![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=for-the-badge&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=for-the-badge&logo=playwright&logoColor=white)
+<sub>Também: Zod · Capacitor · Vitest</sub>
 
 </div>
 
@@ -225,7 +239,7 @@ flowchart LR
 
 <div align="center">
 
-Dúvidas ou suporte:
+### Tens um negócio e uma dor de cabeça? Fala comigo.
 
 [![Email](https://img.shields.io/badge/suporte%40francisgomesx.dev-ce0c24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporte@francisgomesx.dev)
 
