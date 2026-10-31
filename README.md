@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ce0c24,100:111011&text=Francisco%20Gomes&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20para%20o%20setor%20autom%C3%B3vel&descSize=20&descAlignY=60" alt="Francisco Gomes: software para o setor automóvel" width="100%" />
-
-<a href="https://github.com/Francisss9/Portfolio">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1800&color=CE0C24&center=true&vCenter=true&width=640&lines=Feito+para+funcionar+onde+o+trabalho+acontece;Offline+primeiro.+Dados+do+utilizador+primeiro.;Estudante+de+Eng.+Inform%C3%A1tica+no+ISEP+%C2%B7+Porto" alt="Feito para funcionar onde o trabalho acontece" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ce0c24,100:111011&text=Francis%20Gomesx&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20para%20o%20setor%20autom%C3%B3vel&descSize=20&descAlignY=60" alt="Francis Gomesx: software para o setor automóvel" width="100%" />
 
 <br><br>
 
