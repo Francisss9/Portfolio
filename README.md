@@ -20,7 +20,6 @@
 [![Kota](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=kota-v*&label=Kota&color=ce0c24&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=kota)
 [![Rasto](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=rasto-v*&label=Rasto&color=3b3b3b&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=rasto)
 ![Kota offline](https://img.shields.io/badge/Kota-offline-2ea043?style=flat-square)
-![7 dias grátis](https://img.shields.io/badge/Kota-7%20dias%20gr%C3%A1tis-f59e0b?style=flat-square)
 
 <br>
 
