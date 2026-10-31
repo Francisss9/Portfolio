@@ -12,14 +12,20 @@
 
 <br>
 
-[![Kota](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=kota-v*&label=Kota&color=ce0c24&style=for-the-badge)](https://github.com/Francisss9/Portfolio/releases?q=kota)
-[![Rasto](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=rasto-v*&label=Rasto&color=3b3b3b&style=for-the-badge)](https://github.com/Francisss9/Portfolio/releases?q=rasto)
-[![Offline first](https://img.shields.io/badge/offline-first-2ea043?style=for-the-badge)](#-kota)
-[![SaaS](https://img.shields.io/badge/SaaS-licen%C3%A7a%20anual-111011?style=for-the-badge)](#%EF%B8%8F-o-que-fa%C3%A7o)
+[![Descarregar o Kota](https://img.shields.io/badge/Descarregar-Kota-ce0c24?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Francisss9/Portfolio/releases?q=kota)
+[![Abrir o Rasto](https://img.shields.io/badge/Abrir-Rasto-111011?style=for-the-badge&logo=cloudflare&logoColor=white)](https://rasto.francisgomesx.dev)
 
 <br>
 
-**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[🛠️ Stack](#%EF%B8%8F-stack)** &nbsp;·&nbsp; **[✉️ Contacto](#%EF%B8%8F-contacto)**
+[![Kota](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=kota-v*&label=Kota&color=ce0c24&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=kota)
+[![Rasto](https://img.shields.io/github/v/release/Francisss9/Portfolio?filter=rasto-v*&label=Rasto&color=3b3b3b&style=flat-square)](https://github.com/Francisss9/Portfolio/releases?q=rasto)
+![Offline first](https://img.shields.io/badge/offline-first-2ea043?style=flat-square)
+![Licença anual](https://img.shields.io/badge/licen%C3%A7a-anual-111011?style=flat-square)
+![7 dias grátis](https://img.shields.io/badge/7%20dias-gr%C3%A1tis-f59e0b?style=flat-square)
+
+<br>
+
+**[🔧 Kota](#-kota)** &nbsp;·&nbsp; **[🚗 Rasto](#-rasto)** &nbsp;·&nbsp; **[🧭 Como trabalho](#-como-trabalho)** &nbsp;·&nbsp; **[❓ FAQ](#-perguntas-frequentes)** &nbsp;·&nbsp; **[🛠️ Stack](#%EF%B8%8F-stack)** &nbsp;·&nbsp; **[✉️ Contacto](#%EF%B8%8F-contacto)**
 
 </div>
 
@@ -188,6 +194,66 @@ flowchart LR
 
 ---
 
+## ❓ Perguntas frequentes
+
+<details>
+<summary><b>Preciso de internet para usar o Kota?</b></summary>
+
+<br>
+
+Não. O Kota funciona sem rede. A única ligação à internet é para ativar a licença, e só depois de clicares para a ativar.
+
+</details>
+
+<details>
+<summary><b>Onde ficam os meus dados?</b></summary>
+
+<br>
+
+No teu dispositivo, cifrados. Orçamentos e clientes nunca saem de lá, e não há contas nem nuvem.
+
+</details>
+
+<details>
+<summary><b>Quanto custa e como se paga?</b></summary>
+
+<br>
+
+O Kota tem licença anual, paga por MB WAY, Multibanco ou cartão, sem renovação automática. Podes experimentar 7 dias grátis, por pedido.
+
+</details>
+
+<details>
+<summary><b>Em que dispositivos funciona o Kota?</b></summary>
+
+<br>
+
+Android 10 ou superior e Windows (versão portátil, sem instalação).
+
+</details>
+
+<details>
+<summary><b>O Rasto aceita o meu Excel antigo?</b></summary>
+
+<br>
+
+Sim. Importas o ficheiro e passas ao sistema sem reescrever nada.
+
+</details>
+
+<details>
+<summary><b>Quem pode entrar no Rasto?</b></summary>
+
+<br>
+
+Só quem o dono do stand autorizar.
+
+</details>
+
+<br>
+
+---
+
 ## 🧭 Como trabalho
 
 | | | |
@@ -239,7 +305,8 @@ flowchart LR
 
 <div align="center">
 
-### Tens um negócio e uma dor de cabeça? Fala comigo.
+### Tens um negócio e uma dor de cabeça?
+**Fala comigo.** Respondo depressa.
 
 [![Email](https://img.shields.io/badge/suporte%40francisgomesx.dev-ce0c24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporte@francisgomesx.dev)
 
